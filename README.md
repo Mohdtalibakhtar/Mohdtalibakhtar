@@ -7,6 +7,20 @@
 
 ---
 
+## 🚀 GitHub Activity  
+
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohdtalibakhtar&theme=github-dark&hide_border=true)](https://git.io/streak-stats)  
+
+### 📊 Contribution Stats  
+[![Mohammad Talib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdtalibakhtar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+### 🏆 Achievements  
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohdtalibakhtar&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
+
+
+---
+
 ## 👋 About Me  
 
 I am a dedicated Data Scientist with a strong passion for leveraging data to solve complex problems. My experience spans across data analysis, machine learning, and the development of scalable data pipelines. Currently pursuing my Master’s in Data Science at City, University of London, I aim to contribute to impactful projects that enhance decision-making and drive innovation.  
