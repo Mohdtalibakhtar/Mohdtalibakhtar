@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 📊 Mohammad Talib Akhtar  
 
 **Masters in Data Science | Data Analyst | Machine Learning Enthusiast**  
