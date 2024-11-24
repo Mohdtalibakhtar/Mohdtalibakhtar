@@ -43,7 +43,7 @@ Enhanced projects through GirlScript Winter of Contributing (GWoC ’21).
 - Achieved 76% accuracy with LSTM, demonstrating effective model performance.  
 
 ### ✉️ [Cold Email Generator Using LangChain](https://github.com/mohdtalibakhtar/Cold-Email-Generator)  
-**Tech Stack**: Python, LangChain, Streamlit  
+**Tech Stack**: Python, LangChain, Streamlit. 
 - Automated personalized cold email generation based on job page links.  
 - Developed a user-friendly interface for seamless interaction.  
 
