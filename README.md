@@ -8,19 +8,20 @@ I specialise in the part most people skip — the gap between an impressive demo
 
 ---
 
-## What I'm building
+## Things I've built
 
-### [PrepareMe](https://github.com/mohdtalibakhtar/prepareme)
-An AI-powered interview preparation platform. PrepareMe analyses your resume and job description, runs a short assessment, then generates a personalised learning plan delivered by an AI agent. Users can simulate full interview rounds — technical, introductory, or cultural fit — and get targeted feedback to prepare for the real thing.
+**[PrepareMe](https://github.com/mohdtalibakhtar/prepareme)** · Python · LLMs · Multi-agent · Pydantic AI
+AI interview prep platform — resume and JD analysis, personalised learning plan via agent, and interview simulation across technical, introductory, and cultural fit rounds
 
-**Stack** — Python · LLMs · Multi-agent architecture · Pydantic AI
+**[Feedpulse](https://github.com/mohdtalibakhtar/feedpulse)** · TypeScript · Web scraping · Dashboard analytics
+Product feedback aggregator — scrapes Product Hunt, Reddit, Trustpilot, G2, Telegram, and Twitter into one dashboard to track what users are actually saying
 
----
+**[Cold Email Generator](https://github.com/mohdtalibakhtar/Cold-Email-Generator)** · Python · LangChain · Streamlit
+Personalised cold email generation from job page links
 
-### [Feedpulse](https://github.com/mohdtalibakhtar/feedpulse)
-A product feedback intelligence platform. Give Feedpulse your product link and it scrapes feedback from Product Hunt, Reddit, Trustpilot, G2, Telegram, and Twitter — then surfaces everything in one dashboard. Track comments, suggestions, complaints, and sentiment over time so you always know what your users are actually saying.
+**[Autism Detection Using fMRI](https://github.com/mohdtalibakhtar/Autism-Detection)** · Python · LSTM · CNN · SVM
+76% accuracy classifying subjects from time-series fMRI data
 
-**Stack** — TypeScript · Web scraping · Multi-source aggregation · Dashboard analytics
 
 ---
 
