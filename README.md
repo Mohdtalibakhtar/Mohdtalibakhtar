@@ -10,7 +10,7 @@ I work on the layer between architecture and deployment, where most AI projects 
 
 ## Things I've built
 
-**[tracecheck](https://github.com/Mohdtalibakhtar/tracecheck)** · Python · Pydantic AI · LangGraph · OpenTelemetry
+**[Tracecheck](https://github.com/Mohdtalibakhtar/tracecheck)** · Python · Pydantic AI · LangGraph · OpenTelemetry
 Open source eval library for multi step agent traces. Scores tool accuracy, step efficiency, and failure modes deterministically in CI, with an optional LLM judge for output quality. Published to PyPI.
 
 **[Feedhire](https://feedhire.me)** · Python · LLMs · MCP · Multi agent
@@ -19,7 +19,7 @@ Hidden jobs platform that surfaces roles never posted publicly. Aggregates found
 **[Feedpulse](https://feedpulse-three.vercel.app/login)** · TypeScript · LLMs · Sentiment analysis
 Product feedback intelligence platform. Scrapes Product Hunt, Reddit, Trustpilot, G2, Telegram, and Twitter from a single product URL, then runs LLM sentiment analysis to generate prioritised action plans for product teams.
 
-**PrepareMe** · Python · Multi agent · RAG · Pydantic AI
+**[PrepareMe](https://github.com/Mohdtalibakhtar/PrepareMe)** · Python · Multi agent · RAG · Pydantic AI
 AI interview prep platform. Resume and JD analysis, personalised learning plan through coordinated agents, and interview simulation across technical, introductory, and cultural fit rounds. Built solo end to end as a case study.
 
 ---
@@ -28,7 +28,7 @@ AI interview prep platform. Resume and JD analysis, personalised learning plan t
 
 **GenAI and agents** — Multi agent orchestration · MCP · Pydantic AI · LangChain · LangGraph · OpenAI · Anthropic
 **RAG and knowledge** — Neo4j knowledge graphs · Vector databases · Structured outputs
-**Observability and evals** — tracecheck · Logfire · OpenTelemetry
+**Observability and evals** — Tracecheck · Logfire · OpenTelemetry
 **Languages** — Python · TypeScript · SQL · PySpark
 **Data and ML** — PyTorch · TensorFlow · Pandas · Databricks
 **Cloud and infra** — AWS · Azure · GCP · Docker
